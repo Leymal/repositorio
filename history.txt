@@ -1,0 +1,30 @@
+    1  git config --global user.name
+    2  git config --global user.email
+   11  ssh -T git@github.com
+   13  ssh -T git@github.com
+   14  git clone git@github.com:usuario/repositorio.git
+   15  git clone git@github.com:usuario/repositorio.git
+   16  git clone liloyoshida26@gmail.com:Leymal/repositorio.git
+   17  $ git clone liloyoshida26@gmail.com:Leymal/repositorio.git
+   18  git clone liloyoshida26@gmail.com:Leymal/repositorio.git
+   19  git clone git@github.com:Leymal/repositorio.git
+   21  git add .
+   22  git commit .
+   24  git stage
+   25  git add .
+   26  git commit -m "Commit 1 pro GitHub"
+   27  git stage
+   29  git add .
+   30  git add.
+   31  git add .
+   32  git stage
+   33  git add
+   34  git add Teste_1.txt
+   35  git stage
+   36  git commit -m
+   38  git add .
+   39  git push
+   40  git commit -m "Primeiro commit"
+   41  git status 
+   42  git push
+   43  history | grep git > history.txt
